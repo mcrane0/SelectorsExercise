@@ -19,6 +19,22 @@ p{
 }
 
 input[type="text"], input[type="email"]{
+    border:5px pink dotted;
+}
+
+.first{
+    background-color:#fff;
+}
+
+#important{
+    border:3px #2222aa dashed;
+}
+
+div > p{
+    font-size:30px; 
+}
+
+input[type="email"]{
     background-color:#808080;
 }
 
